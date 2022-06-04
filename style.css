@@ -21,6 +21,7 @@ body {
 }
 
 @media (max-width:768px) {
+  
   .matrix-img {
     text-align: center;
   }
